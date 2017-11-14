@@ -2,7 +2,7 @@
 def countdown(number)
   while number > 0
     if number == 1
-    puts"1 SECOND!"
+    puts "1 SECOND!"
   else
     puts "#{number} SECONDS!"
   end
