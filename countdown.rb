@@ -4,7 +4,7 @@ def countdown(number)
     if number == 1
     puts "1 SECOND!"
   else
-    puts "#{number} SECONDS!"
+    puts "#{number} SECOND(S)!"
   end
   number -=1
 end
